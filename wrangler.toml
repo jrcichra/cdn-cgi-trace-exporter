@@ -1,0 +1,3 @@
+name = "cdn-cgi-trace-exporter"
+main = "src/index.ts"
+compatibility_date = "2022-12-03"
